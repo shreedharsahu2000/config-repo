@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ecommerce-config
+
+logging:
+  level:
+    root: INFO
