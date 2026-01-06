@@ -1,0 +1,5 @@
+server:
+  port: 8084
+
+app:
+  message: Payment Service Config Loaded From GitHub
